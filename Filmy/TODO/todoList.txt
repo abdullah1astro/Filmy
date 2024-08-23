@@ -1,0 +1,6 @@
+TODO : fix add function bug -> done
+TODO : start working with google drive (try using telegram too)
+TODO : add some special stuff 
+TODO : fix custom descreption -> done
+TODO : add embeded image contains tv serieses and movies with numbers -> working on it
+TODO : make the rest of the commands have slash commands
